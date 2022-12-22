@@ -1,0 +1,76 @@
+[
+    
+{
+    "name":"Marcus Aurelius",
+
+    "quotes":
+    [
+        "The best revenge is not to be like your enemy.", "You have power over your mind - not outside events. Realize this, and you will find strength.","Dwell on the beauty of life. Watch the stars, and see yourself running with them.","The happiness of your life depends upon the quality of your thoughts.", "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.","Waste no more time arguing about what a good man should be. Be one.","It is not death that a man should fear, but he should fear never beginning to live."
+    ],
+
+
+    "image": "marcus"
+
+},
+
+{
+
+    "name":"Seneca",
+    "quotes":
+    [
+        
+        "Sometimes even to live is an act of courage.",
+        
+        
+        "Luck is what happens when preparation meets opportunity. ",
+        
+        "We suffer more often in imagination than in reality",
+        
+        
+        "As long as you live, keep learning how to live.",
+        
+        
+        "The sun also shines on the wicked.",
+        
+        
+        "Nothing is more honorable than a grateful heart.",
+        
+        "Whatever can happen at any time can happen today."
+    ],
+
+    "image":"seneca"
+
+
+},
+
+{
+
+    "name":"Kobe",
+    "quotes":
+        [ "Dedication makes dreams come true.",
+            
+            "Once you know what failure feels like, determination chases success.",
+        
+
+            "After all, greatness is not for everybody.",
+
+
+            "May you always remember to enjoy the road, especially when it is a hard one.",
+
+        
+            "There's nothing truly to be afraid of, when you think about it, because I've failed before, and I woke up the next morning, and I'm OK.",
+
+        
+            "If you are afraid to fail, then you are probably going to fail.",
+
+
+            "I have self-doubt. I have insecurity. I have fear of failure. I have nights when I show up at the arena and I'm like, 'My back hurts, my feet hurt, my knees hurt. I don't have it. I just want to chill.' We all have self-doubt. You don't deny it, but you also don't capitulate to it. You embrace it."
+            
+        ],
+        
+    "image":"kobe"
+
+}
+
+]
+
