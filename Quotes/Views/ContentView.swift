@@ -32,7 +32,6 @@ struct ContentView: View {
                             label: {
                                 
                                 // Each author card in the scrollview
-                                Spacer()
                                 Card(author: a)
                             })
                         
